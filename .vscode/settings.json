@@ -1,0 +1,7 @@
+{
+    "workbench.preferredHighContrastColorTheme": "Monokai",
+    "workbench.preferredLightColorTheme": "Default High Contrast Light",
+    "workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light",
+    "window.autoDetectColorScheme": true,
+    "workbench.colorTheme": "Visual Studio Light"
+}

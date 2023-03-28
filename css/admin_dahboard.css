@@ -1,0 +1,45 @@
+
+  html{
+    background-image:url('../images copy/airport.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+   h1{
+    color:rgb(216, 221, 218);
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:45px;
+    font-style: oblique;
+    font-weight:bold;
+  }
+ h2{
+    color:#dddddd;
+    font-weight:bold;
+    font-family:Calibri;
+    font-size:30px;
+    text-align:center;
+  }
+  table {
+    color:#dddddd;
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 100%;
+}
+
+
+td, th {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 8px;
+}
+
+tr:nth-child(even) {
+background-color: black;
+}
+div a{
+  color:white;
+  font-size:larger;
+}
+.logout{
+  padding:20px;
+}

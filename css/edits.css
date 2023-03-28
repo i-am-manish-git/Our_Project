@@ -1,0 +1,42 @@
+body{
+	background-color:azure;
+}
+.main{
+	padding:100px 0px 20px 600px;
+}
+h2{
+	padding:0 0px 20px 150px;
+	font-size:35px;
+	font-style:oblique;
+}
+form div label{
+    display: inline-block;
+	width: 20%;
+    font-size: 25px;
+	font-weight:unset;
+	font-style:oblique;
+}
+
+form div input{
+    width: 30%;
+	height:30px;
+}
+form div input[name = gender]{
+	width: 5%;
+	height:20px;
+}
+form input[type="submit"]{
+    width: 100px;
+	background-color: rgba(0, 72, 255, 0.778);
+	border: none;
+	color: #fff;
+	height: 40px;
+}
+form input[type="submit"]:hover{
+    background-position:right;
+    background-color: rgba(0, 238, 255, 0.716);
+}
+.update{
+	padding-left: 200px;
+	padding-top: 20px;
+}

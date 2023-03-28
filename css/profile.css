@@ -1,0 +1,70 @@
+body{
+    background-color:rgb(213, 231, 233);
+}
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    background-color:rgb(56, 82, 84);
+    width:40%;
+    height: 770px;
+   color:white;
+    margin: 150px 0 0 600px;
+    border-radius: 20px 20px 30px 30px;
+    font-size:25px;
+}
+  img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  border-radius: 50%;
+  
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}  
+
+h2{
+    text-align: center;
+    padding: 30px;
+    font-size:30px;
+    font-weight:bold;
+}
+span{
+    font-size:25px;
+    margin:15px 5px;
+    font-weight: bold;
+    padding-right: 50px;
+   
+}
+p{
+    position:relative;
+    left:150px;
+    top: -29px;
+    padding:0 90px;
+
+}
+.db{
+    padding-left: 100px; 
+}
+.gender{
+    padding-left: 100px; 
+}
+.fn{
+    padding-left: 100px; 
+}
+.mn{
+    padding-left: 100px; 
+}
+.email{
+    padding-left: 100px; 
+}
+.number{
+    padding-left: 100px; 
+}
+.address{
+    padding-left: 100px; 
+}

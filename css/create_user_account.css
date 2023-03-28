@@ -1,0 +1,50 @@
+html{
+    background-image:url('../images copy/grey.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+h2{
+    font-size: 40px;
+    padding-left: 80px;
+    font-style:oblique;
+}
+form div{
+    padding:10px;
+	margin-bottom: 2px;
+}
+form div input{
+    width: 15%;
+	height:25px;
+}
+form div label{
+    display: inline-block;
+	width: 10%;
+    font-size: 20px;
+}
+form div input[name = gender]{
+	width: 5%;
+	height:20px;
+}
+form div input[name = address]{
+    width: 26%;
+	height:25px;
+}
+form input[type="submit"]{
+    width: 100px;
+	background-color: rgba(0, 72, 255, 0.778);
+	border: none;
+	padding: 10px;
+	color: #fff;
+	height: 40px;
+}
+form input[type="submit"]:hover{
+    background-position:right;
+    background-color: rgba(0, 238, 255, 0.716);
+}
+
+small
+{
+    padding: 10px 0;
+	font-size:15px;
+    color:red;
+}
